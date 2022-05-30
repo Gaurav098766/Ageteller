@@ -2,7 +2,9 @@
 
 Get the app at : https://ageteller.vercel.app/
 
+# Concepts 
 
+Thorough understanding of React Props , Components , States along with many more inbuild javascript functions.
 
 
 # Getting Started with Create React App
